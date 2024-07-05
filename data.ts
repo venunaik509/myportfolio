@@ -11,12 +11,12 @@ export const languages = [
         link:"https://www.typescriptlang.org/",
         img:"/logos/ts-logo-128.svg"
     },
-    {
-        name:"C++",
-        desc:"C++ is a versatile programming language renowned for efficiency, commonly applied in system software, games, and performance-critical applications, supporting both procedural and object-oriented programming.",
-        link:"",
-        img:"/logos/c++.svg"
-    },
+    // {
+    //     name:"C++",
+    //     desc:"C++ is a versatile programming language renowned for efficiency, commonly applied in system software, games, and performance-critical applications, supporting both procedural and object-oriented programming.",
+    //     link:"",
+    //     img:"/logos/c++.svg"
+    // },
     {
         name:"Python",
         desc:"Python is a versatile, high-level programming language celebrated for its simplicity and readability. Widely used in web development, data science, and automation, Python's extensive libraries make it a go-to choice for various applications.",
@@ -56,12 +56,12 @@ export const frontend = [
         link:"https://ui.shadcn.com/",
         img:"/logos/shadcn.jpeg"
     },
-    {
-        name:"Astro",
-        desc:"Astro is the web framework for building content-driven websites like blogs, marketing, and e-commerce.",
-        link:"https://astro.build/",
-        img:"/logos/astro.svg"
-    },
+    // {
+    //     name:"Astro",
+    //     desc:"Astro is the web framework for building content-driven websites like blogs, marketing, and e-commerce.",
+    //     link:"https://astro.build/",
+    //     img:"/logos/astro.svg"
+    // },
     
 ]
 
@@ -94,22 +94,22 @@ export const backend = [
 
 export const other = [
     {
-        name:"Zod",
-        desc:"Zod is a TypeScript-first schema declaration and validation library.",
-        link:"https://zod.dev/",
-        img:"/logos/zod.svg"
+        name:"Salesforce",
+        desc:"Salesforce is a cloud-based CRM platform that offers tools for sales, service, marketing, commerce, and community management.",
+        link:"https://salesforce.com/",
+        img:"/logos/salesforce.png"
     },
     {
-        name:"Pnpm",
-        desc:"Fast, disk space efficient package manager",
-        link:"https://pnpm.io/",
-        img:"/logos/pnpm.svg"
+        name:"GCP",
+        desc:"Google Cloud Platform (GCP) is a suite of cloud computing services that provides infrastructure, data storage, machine learning, and analytics tools for building and scaling applications.",
+        link:"https://cloud.google.com/",
+        img:"/logos/Gcloud.png"
     },
     {
-        name:"Ubuntu(Linux)",
-        desc:"Ubuntu is a user-friendly Linux distribution recognized for its stability and security. It's widely used for desktop and server applications, featuring a customizable environment and extensive package support.",
-        link:"https://ubuntu.com/",
-        img:"/logos/ubuntu-4.svg"
+        name:"github",
+        desc:"GitHub is a web-based platform for version control and collaborative software development using Git.",
+        link:"https://github.com/",
+        img:"/logos/github.png"
     },
 ]
 
@@ -126,9 +126,9 @@ export const projects = [
     {
         name: "My Portfolio",
         desc:"The website you are currently on.",
-        liveLink:"https://adityaj07-portfolio.vercel.app",
-        githubLink:"https://github.com/adityaj07/myPorfolio",
-        coverImg:"",
+        liveLink:"https://myportfolio-lake-beta.vercel.app/",
+        githubLink:"https://github.com/venunaik509/myportfolio",
+        coverImg:"/projects/portfolio_ui.png",
         imgs:[],
         tech:["/logos/nextjs-13.svg", "/logos/tailwind-css-2.svg", "/logos/ts-logo-128.svg"],
     },
