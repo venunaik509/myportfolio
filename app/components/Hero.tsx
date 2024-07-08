@@ -19,10 +19,10 @@ const Hero: FC = () => {
         transition={{ duration: 0.5 }}
       >
         <p className="text-[2.70rem] md:text-[5rem] lg:text-[6rem] md:text-7xl font-bold relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-500 py-2 md:py-5 w-[90%] md:w-[70%] text-center ">
-          Hello, I&apos;m venu
+          Hello, I&apos;m Venu
         </p>
         <p className="text-[1.1rem] md:text-[1.8rem] lg:text-[2rem] md:text-xl relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-500 pb-2 md:py-3 w-[70%] text-center">
-          A Full Stack Web Developer
+          A MERN Stack Developer
         </p>
         <p className="md:text-[1.2rem] lg:text-[1.3rem] bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-500 py-3 w-[90%] text-center">
           Its currently

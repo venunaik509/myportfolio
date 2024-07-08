@@ -33,7 +33,7 @@ const AboutMe: FC<AboutMeProps> = ({}) => {
             About me
           </h2>
           <p className="font-normal items-center tracking-wide text-base md:text-sm leading-normal">
-          Hey, I&apos;m Venu naik, a passionate full-stack web developer dedicated to turning ideas into dynamic digital experiences. I thrive on the challenges of turning ideas into dynamic digital experiences. Beyond the screen, I explore new technologies and enjoy the ever-evolving landscape of web development. 
+          Hey, I&apos;m Venu naik, a passionate MERN Stack developer dedicated to turning ideas into dynamic digital experiences. I thrive on the challenges of turning ideas into dynamic digital experiences. Beyond the screen, I explore new technologies and enjoy the ever-evolving landscape of web development. 
           Let&apos;s connect and explore the endless possibilities together!
           </p>
           <div className="grid grid-cols-2 md:flex justify-start items-center gap-4 mt-6">
